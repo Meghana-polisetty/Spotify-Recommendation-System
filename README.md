@@ -34,7 +34,7 @@ For the second approach, we wanted to address the fact actual music recommendati
 
 ## Model1:
 
-My recommendation system worked pretty well with this approach. One of our users 'Helen' preferred the predicted playlist from the Simple Linear Regression(SLR) model over the other 2 models(Random Forest and Neural Network).
+My recommendation system worked pretty well with this approach. One of the users 'Helen' preferred the predicted playlist from the Simple Linear Regression(SLR) model over the other 2 models(Random Forest and Neural Network).
 
 ## Model2:
 
